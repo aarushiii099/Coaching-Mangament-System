@@ -4,7 +4,7 @@ Backend REST API for managing operations of a coaching institute such as student
 
 This project demonstrates backend architecture, REST API design, database modeling, and modular Node.js application structure.
 
-![Application Preview] (./allScreens.jpg)
+![Application Preview] (allScreens.jpg)
 
 ## Key Features
 
