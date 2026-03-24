@@ -1,12 +1,12 @@
 Coaching Management System
 
-Backend REST API for managing operations of a coaching institute such as student records, attendance tracking, and payment management.
+Backend REST API for managing operations of a coaching institute such as student records, attendance tracking, and attendance management.
 
 This project demonstrates backend architecture, REST API design, database modeling, and modular Node.js application structure.
 
-![Application Preview]
+![Application Preview] (./allScreens.jpg)
 
-## Key Features (What Recruiters Look For)
+## Key Features
 
 ### Student Management
 - Add new students
